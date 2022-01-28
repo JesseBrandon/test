@@ -1,2 +1,2 @@
-This is a completely new commit
+weird commit
 
